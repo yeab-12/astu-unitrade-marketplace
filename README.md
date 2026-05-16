@@ -78,22 +78,22 @@ The platform ensures safe trading through:
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshotts/home.png)
+![Home Page](screenshots/home.png)
 
 ### 🛒 Profile
-![profile](screenshotts/profile.png)
+![profile](screenshots/profile.png)
 
 ### 🔐 Login Page
-![Login](screenshotts/login.png)
+![Login](screenshots/login.png)
 
 ### 📊 Admin Dashboard
-![admin](screenshotts/admin.png)
+![admin](screenshots/admin.png)
 
 ### 🔐 Marketplace Page
-![marketplace](screenshotts/marketplace.png)
+![marketplace](screenshots/marketplace.png)
 
 ### 📊 Items 
-![Items](screenshotts/items.png)
+![Items](screenshots/items.png)
 
 
 # 📁 Project Structure
