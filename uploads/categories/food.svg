@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B"/>
+      <stop offset="100%" style="stop-color:#D97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)" rx="16"/>
+  <!-- Coffee cup -->
+  <rect x="160" y="90" width="80" height="90" rx="8" fill="white" opacity="0.9"/>
+  <rect x="155" y="82" width="90" height="16" rx="8" fill="white" opacity="0.9"/>
+  <path d="M240,110 Q270,110 270,135 Q270,155 240,155" stroke="white" stroke-width="6" fill="none" opacity="0.9"/>
+  <!-- Steam -->
+  <path d="M180,75 Q185,60 180,50" stroke="white" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M200,70 Q205,55 200,45" stroke="white" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M220,75 Q225,60 220,50" stroke="white" stroke-width="3" fill="none" opacity="0.6"/>
+  <!-- Plate -->
+  <ellipse cx="200" cy="220" rx="80" ry="20" fill="white" opacity="0.85"/>
+  <!-- Burger -->
+  <rect x="160" y="190" width="80" height="15" rx="7" fill="#8B5E3C"/>
+  <rect x="155" y="200" width="90" height="8" fill="#4CAF50" opacity="0.8"/>
+  <rect x="155" y="205" width="90" height="8" fill="#E53E3E" opacity="0.8"/>
+  <rect x="160" y="210" width="80" height="15" rx="7" fill="#8B5E3C"/>
+</svg>
