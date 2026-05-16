@@ -75,7 +75,26 @@ The platform ensures safe trading through:
 
 ---
 
-# 📁 Project Structure
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshotts/home.png)
+
+### 🛒 Profile
+![profile](screenshotts/profile.png)
+
+### 🔐 Login Page
+![Login](screenshotts/login.png)
+
+### 📊 Admin Dashboard
+![admin](screenshotts/admin.png)
+
+### 🔐 Marketplace Page
+![marketplace](screenshotts/marketplace.png)
+
+### 📊 Items 
+![Items](screenshotts/items.png)
+
 
 # 📁 Project Structure
 
