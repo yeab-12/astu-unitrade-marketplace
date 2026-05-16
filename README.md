@@ -95,45 +95,43 @@ The platform ensures safe trading through:
 ### 📊 Items 
 ![Items](screenshots/items.png)
 
-
 # 📁 Project Structure
-
-
-├── index.php
-├── login.php
-├── signup.php
-├── logout.php
-├── marketplace.php
-├── item.php
-├── profile.php
-├── sell.php
-├── about.php
-├── contact.php
-
-├── admin/
-│ ├── dashboard.php
-│ ├── items.php
-│ ├── users.php
-│ ├── edit_item.php
-│ ├── messages.php
-
-├── includes/
-│ ├── db.php
-│ ├── auth.php
-│ ├── header.php
-│ ├── footer.php
-
-├── css/
-│ └── style.css
-
-├── js/
-│ └── app.js
-
-├── uploads/
-├── database/
-│ └── unitrade.sql
-
-
+```text
+unitrade/
+├── index.php             # Home page (Landing page / featured items)
+├── login.php             # User authentication (Login page)
+├── signup.php            # User registration (Sign up page)
+├── logout.php            # Destroys session and logs out user
+├── marketplace.php       # Main browsing hub for available items
+├── item.php              # Detailed view of a single product/item
+├── profile.php           # User profile and managed listings
+├── sell.php              # Form page to post/list a new item
+├── about.php             # Platform information and team details
+├── contact.php           # Customer support / feedback form
+│
+├── admin/                # Admin Panel Directory
+│   ├── dashboard.php     # Admin overview statistics and metrics
+│   ├── items.php         # Manage / moderate listed items
+│   ├── users.php         # Manage registered user accounts
+│   ├── edit_item.php     # Admin tool to modify item details
+│   └── messages.php      # View and handle user contact submissions
+│
+├── includes/             # Shared Components & Backend Scripts
+│   ├── db.php            # Database connection configuration
+│   ├── auth.php          # Session validation and access control helpers
+│   ├── header.php        # Global header template (Navigation bar)
+│   └── footer.php        # Global footer template
+│
+├── css/                  # Stylesheets
+│   └── style.css         # Main application stylesheet
+│
+├── js/                   # Clientside Scripts
+│   └── app.js            # Main JavaScript file for UI interactions
+│
+├── uploads/              # Dynamic Directory for uploaded item images
+│
+└── database/             # Database Backups
+    └── unitrade.sql      # Core SQL dump for initial database schema setup
 ---
 
 # 🚀 Conclusion
